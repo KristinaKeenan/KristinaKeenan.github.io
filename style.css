@@ -8,12 +8,12 @@
 }
 .banner
 {
-	/*background-color: #341F48;*/
-	/*background: -moz-linear-gradient(left, #3C1642 50%, #251433 50%);
+/*	background-color: #341F48;*/
+	background: -moz-linear-gradient(left, #3C1642 50%, #251433 50%);
 	background: -webkit-linear-gradient(left, #3C1642 50%, #251433 50%);
 	background: -o-linear-gradient(left, #3C1642 50%, #251433 50%);
-	background: linear-gradient(left, #3C1642 50%, #251433 50%);*/
-    background-image: image("")
+	background: linear-gradient(left, #3C1642 50%, #251433 50%);
+    /*background-image: image("")*/
 }
 
 .banner-text 
@@ -473,15 +473,16 @@ figure.effect-Beauty:hover p {
 .notes
 {
 	background-color: #45AACB;
-	padding: 100px 0px;
+	padding: 50px 0px;
 }
 .notes p
 {
 	color: #fff;
 	font-family: "Source Sans Pro",sans-serif;
 	font-weight: 400;
-	font-size: 18px;
+	font-size: 30px;
 	margin: 0px;
+    text-align: center;
 }
 .notes button
 {
