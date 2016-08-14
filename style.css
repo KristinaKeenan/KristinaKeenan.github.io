@@ -736,22 +736,34 @@ padding: 40px 0px;
     font-size: 13px;
 }
 }
-@media (min-width: 100px) and (max-width: 500px) {
+@media (min-width: 100px) and (max-width: 350px) {
 .sorting {
 
     font-size: 10px;
 
 }
-    .gallery{
+    
+}
+
+
+
+@media (min-width: 100px) and (max-width: 500px){
+
+.gallery{
     
         font-size: 5px;
     
     }
 }
 
+@media (max-width: 100px){
 
-
-
+    .gallery {
+    
+    font-size: 1px;
+    
+    }
+}
 
 
 
