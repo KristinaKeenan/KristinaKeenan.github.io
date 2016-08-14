@@ -774,12 +774,14 @@ padding: 40px 0px;
     text-align: center;
    /* color: #251433;*/
     color: #3C1642; 
-    font-size: 20px;
+    font-size: 25px;
     font-family: "Raleway";
 }
 @media (min-width:800px) and (max-width: 1000px){
 .bio{
-font-size: 14px;
+font-size: 18px;
+                padding-left: 20px;
+
 }
 }
     @media (min-width: 1200px){
@@ -788,6 +790,7 @@ font-size: 14px;
         
         
 padding-top: 50px;
+            padding-left: 20px;
         
         }
     
