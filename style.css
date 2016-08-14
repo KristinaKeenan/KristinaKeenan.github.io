@@ -747,7 +747,7 @@ padding: 40px 0px;
 
 
 
-@media (min-width: 100px) and (max-width: 500px){
+@media (min-width: 100px) and (max-width: 640px){
 
 .gallery{
     
@@ -755,7 +755,7 @@ padding: 40px 0px;
     
     }
 }
-
+/*
 @media (max-width: 300px){
 
     .gallery {
@@ -764,7 +764,7 @@ padding: 40px 0px;
     
     }
 }
-
+*/
 
 
 
