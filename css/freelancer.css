@@ -540,3 +540,7 @@ div#maincontent {
     z-index:1;
 
 }
+
+.theVideo {
+    top: 10px;
+}
