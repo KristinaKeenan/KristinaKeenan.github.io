@@ -223,7 +223,7 @@ section.success {
   font-size: 20px;
   text-align: center;
   top: 50%;
-  margin-top: -12px;
+  margin-top: -40px;
   color: white;
 }
 #portfolio .portfolio-item .portfolio-link .caption .caption-content i {
@@ -514,5 +514,29 @@ fieldset[disabled] .btn-success.active {
 }
 div#maincontent {
   outline: none;
+  position: absolute;
+        z-index:1;
+
 }
 
+#myVideo {
+    position: relative;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+    
+}
+
+.mainSection {
+
+    position:absolute;
+
+    top:0;
+
+    left:0;
+    right: 0;
+    bottom: 0;
+    z-index:1;
+
+}
